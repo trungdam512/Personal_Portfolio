@@ -22,4 +22,4 @@ about:
       href: https://github.com/trungdam512/COVID-in-Schools
 ---
 
-Adopting a holistic approach to COVID-19 outbreaks in U.S. Universities and Colleges, our group examined the epidemiology through school size, COVID-19 rate in respective counties, and schools' political leanings. This interdisciplinary approach provides an overview of COVID-19 epidemiology among national campuses, suggesting interconnected interventions from multiple levels: county, university administration, and students. 
+Adopting a holistic approach to COVID-19 outbreaks in U.S. Universities and Colleges, our group examined the epidemiology through school size, COVID-19 rate in respective counties, and schools' political leanings. This interdisciplinary approach provides an overview of COVID-19 epidemiology among national campuses, suggesting interconnected interventions from multiple levels: county, university administration, and students.
