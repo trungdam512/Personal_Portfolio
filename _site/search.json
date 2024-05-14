@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hi there! I’m Trung Dam, a rising senior pursuing a double major in Data Science and Environmental Studies with a concentration in Statistics at Macalester College (Class of ’25). As an aspiring analyst and researcher, I am dedicated to leveraging data-driven approaches to address environmental challenges and promote sustainable practices within businesses.\nAdditionally, my passion for alternative energy drives my commitment to contributing to a systematic shift towards clean energy solutions. This prompt me to continuously absorb and distill modern technology and knowledge regarding renewable energy initiatives.\nExplore my portfolio where I documented my critical thinking process of various interesting problems, ranging from epidemiology to NCAA March Madness!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Welcome!",
+    "section": "Education",
+    "text": "Education\nMacalester College | St. Paul, MN  B.A in Data Science and Environmental Studies | Expected Graduation: Spring 2025"
+  },
+  {
+    "objectID": "index.html#experience-recent",
+    "href": "index.html#experience-recent",
+    "title": "Welcome!",
+    "section": "Experience (Recent)",
+    "text": "Experience (Recent)\nData Science Intern | Aquila | Ho Chi Minh City, VN  Transportation & Clean Fuels Intern | Great Plains Institute | Minneapolis, MN  Ecology Researcher | Macalester College | Luquillo, PR"
+  },
+  {
+    "objectID": "index.html#entrepreneurship",
+    "href": "index.html#entrepreneurship",
+    "title": "Welcome!",
+    "section": "Entrepreneurship",
+    "text": "Entrepreneurship\nHead of R&D | EcoSmart | Hanoi, VN  Founder | NYLOFF | Hanoi, VN"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data Science Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCOVID In Schools\n\n\n\n\n\n\n\nR\n\n\nEDA (Exploratory Data Analysis)\n\n\n \n\n\n\n\nDec 18, 2021\n\n\nAiden Appel, Trung Dam, Ethan Hyslop, Andie Walker, and Jojo Zhang\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/data_projects/COVID_US_Universities/index.html",
+    "href": "posts/data_projects/COVID_US_Universities/index.html",
+    "title": "COVID In Schools",
+    "section": "",
+    "text": "Adopting a holistic approach to COVID-19 outbreaks in U.S. Universities and Colleges, our group examined the epidemiology through school size, COVID-19 rate in respective counties, and schools’ political leanings. This interdisciplinary approach provides an overview of COVID-19 epidemiology among national campuses, suggesting interconnected interventions from multiple levels: county, university administration, and students."
+  }
+]

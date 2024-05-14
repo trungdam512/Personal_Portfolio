@@ -1,0 +1,25 @@
+---
+title: "COVID In Schools"
+author: Aiden Appel, Trung Dam, Ethan Hyslop, Andie Walker, and Jojo Zhang
+date: "December 18, 2021"
+image: thumbnail.png
+categories:
+  - R
+  - EDA (Exploratory Data Analysis)
+website: 
+  navbar:
+      background: dark
+      search: true
+about: 
+  template: solana
+  image: thumbnail.png
+  links: 
+    - icon: link-45deg
+      text: Website
+      href: https://sites.google.com/macalester.edu/stats-112/home
+    - icon: github
+      text: Github
+      href: https://github.com/trungdam512/COVID-in-Schools
+---
+
+Adopting a holistic approach to COVID-19 outbreaks in U.S. Universities and Colleges, our group examined the epidemiology through school size, COVID-19 rate in respective counties, and schools' political leanings. This interdisciplinary approach provides an overview of COVID-19 epidemiology among national campuses, suggesting interconnected interventions from multiple levels: county, university administration, and students. 

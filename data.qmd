@@ -1,0 +1,20 @@
+---
+title: "Data Science Projects"
+website: 
+  navbar:
+      background: dark
+      search: true
+listing:
+  contents:
+    - "posts/data_projects"
+  feed: true
+  fields: [image, date, title, author, categories]
+  date-format: medium
+  type: default
+  categories: true
+  table-hover: true
+  sort-ui: true
+  filter-ui: true
+  sort: "date desc"
+---
+

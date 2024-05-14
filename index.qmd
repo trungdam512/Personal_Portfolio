@@ -2,10 +2,10 @@
 title: "Welcome!"
 website: 
   navbar:
-      background: darkgreen
+      background: lightyellow
       search: true
 about:
-  template: trestles
+  template: broadside
   image: images/profile.jpg
   image-shape: rectangle
   links:
@@ -19,16 +19,15 @@ about:
       text: Email
       href: mailto:tdam@macalester.edu
     - icon: file-person-fill
-      menu: 
-        - text: Data Science Resume
-          href: https://drive.google.com/file/d/1JBftwCMFd9YGu8wYjrMRNVuyLvwZu1l0/view?usp=sharing  
-        - text: Environmental Studies Resume
-          href: https://drive.google.com/file/d/1pIeeaadz-zQjwiJRwACuRN8bIC5WqTU-/view?usp=sharing 
+      text: Resume
+      href: https://drive.google.com/file/d/1pIeeaadz-zQjwiJRwACuRN8bIC5WqTU-/view?usp=sharing 
       
 comments: false
 ---
 
-Hi there! I'm **Trung Dam**, a rising senior pursuing a double major in **Data Science and Environmental Studies** with a concentration in **Statistics** at Macalester College (Class of '25). As an aspiring analyst and researcher, I am dedicated to leveraging data-driven approaches to address environmental challenges and promote sustainable practices within businesses. Additionally, my passion for alternative energy drives my commitment to contributing to a systematic shift towards clean energy solutions. This prompt me to continuously absorb and distill modern technology and knowledge regarding renewable energy initiatives.
+Hi there! I'm **Trung Dam**, a rising senior pursuing a double major in **Data Science and Environmental Studies** with a concentration in **Statistics** at Macalester College (Class of '25). As an aspiring analyst and researcher, I am dedicated to leveraging data-driven approaches to address environmental challenges and promote sustainable practices within businesses. 
+
+Additionally, my passion for alternative energy drives my commitment to contributing to a systematic shift towards clean energy solutions. This prompt me to continuously absorb and distill modern technology and knowledge regarding renewable energy initiatives.
 
 Explore my portfolio where I documented my critical thinking process of various interesting problems, ranging from epidemiology to NCAA March Madness!
 
