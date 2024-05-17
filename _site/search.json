@@ -32,7 +32,7 @@
     "href": "data.html",
     "title": "Data Science Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nCOVID In Schools\n\n\n\n\n\n\n\nR\n\n\nEDA (Exploratory Data Analysis)\n\n\n \n\n\n\n\nDec 18, 2021\n\n\nAiden Appel, Trung Dam, Ethan Hyslop, Andie Walker, and Jojo Zhang\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nU.S. Building Energy Usage\n\n\n\n\n\n\n\nR\n\n\nEDA (Exploratory Data Analysis)\n\n\n \n\n\n\n\nApr 2, 2024\n\n\nTrung Dam, Lilabeth Sokolewicz, Zoey Yandell\n\n\n\n\n\n\n  \n\n\n\n\nInvestigating Drought Climatic Aspects in Puerto Rican Tropical Rainforest\n\n\n\n\n\n\n\nR\n\n\nEDA (Exploratory Data Analysis)\n\n\nStatistical Modeling\n\n\n \n\n\n\n\nAug 17, 2023\n\n\nTrung Dam\n\n\n\n\n\n\n  \n\n\n\n\nCOVID In Schools\n\n\n\n\n\n\n\nR\n\n\nEDA (Exploratory Data Analysis)\n\n\n \n\n\n\n\nDec 18, 2021\n\n\nAiden Appel, Trung Dam, Ethan Hyslop, Andie Walker, and Jojo Zhang\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/data_projects/COVID_US_Universities/index.html",
@@ -40,5 +40,19 @@
     "title": "COVID In Schools",
     "section": "",
     "text": "Adopting a holistic approach to COVID-19 outbreaks in U.S. Universities and Colleges, our group examined the epidemiology through school size, COVID-19 rate in respective counties, and schools’ political leanings. This interdisciplinary approach provides an overview of COVID-19 epidemiology among national campuses, suggesting interconnected interventions from multiple levels: county, university administration, and students."
+  },
+  {
+    "objectID": "posts/data_projects/US_Building_Efficiency/index.html",
+    "href": "posts/data_projects/US_Building_Efficiency/index.html",
+    "title": "U.S. Building Energy Usage",
+    "section": "",
+    "text": "In the attempt to fight climate change, the United States has incorporated multiple sustainable design intervention. Our group is thus intrigued to investigate the U.S. housing data from EIA, 2015 to unveil the prominent factor of household energy efficiency and how energy programs and policies may be implemented!"
+  },
+  {
+    "objectID": "posts/data_projects/Climate_Stressors_Rainforest_PuertoRico/index.html",
+    "href": "posts/data_projects/Climate_Stressors_Rainforest_PuertoRico/index.html",
+    "title": "Investigating Drought Climatic Aspects in Puerto Rican Tropical Rainforest",
+    "section": "",
+    "text": "The dynamic of precipitation and temperature in tropical rainforests has always been an ongoing research topic. Last summer, I wanted to delve into the interconnection of daily rainfall and occasional heat shock in two study sites in Puerto Rico: Sabana Field Research Station and Bisley Experimental Watersheds. These two sites are chosen to investigate the discrepancy in the relationship between rainfall and temperature across different topography and the impact of low rainfall and heat shock periods on Sabana Field Research Station’s biodiversity."
   }
 ]

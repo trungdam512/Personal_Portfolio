@@ -1,0 +1,26 @@
+---
+title: "Investigating Drought Climatic Aspects in Puerto Rican Tropical Rainforest"
+author: Trung Dam
+date: "August 17, 2023"
+image: thumbnail.png
+categories:
+  - R
+  - EDA (Exploratory Data Analysis)
+  - Statistical Modeling
+website: 
+  navbar:
+      background: dark
+      search: true
+about: 
+  template: solana
+  image: thumbnail.png
+  links: 
+    - icon: link-45deg
+      text: Website
+      href: https://trungdam512.github.io/Drought-Heatwaves-Research-TRACE/
+    - icon: github
+      text: Github
+      href: https://github.com/trungdam512/Drought-Heatwaves-Research-TRACE
+---
+
+The dynamic of precipitation and temperature in tropical rainforests has always been an ongoing research topic. Last summer, I wanted to delve into the interconnection of daily rainfall and occasional heat shock in two study sites in Puerto Rico: Sabana Field Research Station and Bisley Experimental Watersheds. These two sites are chosen to investigate the discrepancy in the relationship between rainfall and temperature across different topography and the impact of low rainfall and heat shock periods on Sabana Field Research Station’s biodiversity.

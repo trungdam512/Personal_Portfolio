@@ -1,5 +1,5 @@
 ---
-  title: "U.S. Building Energy Usage"
+title: "U.S. Building Energy Usage"
 author: Trung Dam, Lilabeth Sokolewicz, Zoey Yandell
 date: "April 2, 2024"
 image: thumbnail.png
@@ -8,18 +8,18 @@ categories:
   - EDA (Exploratory Data Analysis)
 website: 
   navbar:
-  background: dark
-search: true
+      background: dark
+      search: true
 about: 
   template: solana
-image: thumbnail.png
-links: 
-  - icon: link-45deg
-text: Website
-href: https://trungdam512.github.io/U.S._Building_Energy/
-- icon: github
-text: Github
-href: https://github.com/trungdam512/U.S._Building_Energy
+  image: thumbnail.png
+  links: 
+    - icon: link-45deg
+      text: Website
+      href: https://trungdam512.github.io/U.S._Building_Energy/
+    - icon: github
+      text: Github
+      href: https://github.com/trungdam512/U.S._Building_Energy
 ---
-  
-In the attempt to fight climate change, the United States has incorporated multiple sustainable design intervention. Our group is thus intrigued to investigate the U.S. housing data from EIA, 2015 to unveil the prominent factor of household energy efficiency and how more energy programs may be implemented!
+
+In the attempt to fight climate change, the United States has incorporated multiple sustainable design intervention. Our group is thus intrigued to investigate the U.S. housing data from EIA, 2015 to unveil the prominent factor of household energy efficiency and how energy programs and policies may be implemented!

@@ -25,7 +25,7 @@ about:
 comments: false
 ---
 
-Hi there! I'm **Trung Dam**, a rising senior pursuing a double major in **Data Science and Environmental Studies** with a concentration in **Statistics** at Macalester College (Class of '25). As an aspiring analyst and researcher, I am dedicated to leveraging data-driven approaches to address environmental challenges and promote sustainable practices within businesses. 
+Hi there! I'm **Trung Dam**, a rising senior pursuing a double major in **Data Science and Environmental Studies** with a concentration in **Statistics** at Macalester College (Class of '25). As an aspiring analyst and researcher, I am dedicated to leveraging data-driven approaches to address environmental challenges and promote sustainable practices within businesses.
 
 Additionally, my passion for alternative energy drives my commitment to contributing to a systematic shift towards clean energy solutions. This prompt me to continuously absorb and distill modern technology and knowledge regarding renewable energy initiatives.
 
@@ -37,7 +37,7 @@ Macalester College \| St. Paul, MN <br> B.A in Data Science and Environmental St
 
 ## Experience (Recent)
 
-Data Science Intern \| Aquila \| Ho Chi Minh City, VN <br> Transportation & Clean Fuels Intern \| Great Plains Institute \| Minneapolis, MN <br> Ecology Researcher \| Macalester College \| Luquillo, PR 
+Data Science Intern \| Aquila \| Ho Chi Minh City, VN <br> Transportation & Clean Fuels Intern \| Great Plains Institute \| Minneapolis, MN <br> Ecology Researcher \| Macalester College \| Luquillo, PR
 
 ## Entrepreneurship
 
