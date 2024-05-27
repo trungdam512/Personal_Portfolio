@@ -13,5 +13,12 @@
       "/posts/cs_projects/Ware/index.html",
       "/posts/cs_projects/Dino_Game/index.html"
     ]
+  },
+  {
+    "listing": "/tidy_tuesday.html",
+    "items": [
+      "/posts/tidy_tuesday_projects/NCAA_MarchMadness_2024/index.html",
+      "/posts/tidy_tuesday_projects/Valentine_Days/index.html"
+    ]
   }
 ]

@@ -1,0 +1,19 @@
+---
+title: "Tidy Tuesday Explorations"
+website: 
+  navbar:
+      background: dark
+      search: true
+listing:
+  contents:
+    - "posts/tidy_tuesday_projects"
+  feed: true
+  fields: [image, date, title, author, categories]
+  date-format: medium
+  type: default
+  categories: true
+  table-hover: true
+  sort-ui: true
+  filter-ui: true
+  sort: "date desc"
+---

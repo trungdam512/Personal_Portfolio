@@ -1,0 +1,25 @@
+---
+title: "Valentine Gift Explorations"
+author: Trung Dam
+date: " February 29, 2024"
+image: thumbnail.png
+categories:
+  - R
+  - EDA (Exploratory Data Analysis)
+website: 
+  navbar:
+      background: "#d60000"
+      search: true
+about: 
+  template: solana
+  image: thumbnail.png
+  links: 
+    - icon: link-45deg
+      text: Website
+      href: https://trungdam512.github.io/Tidy-Tuesday-Explorations/Project%20Valentine/
+    - icon: github
+      text: Github
+      href: https://github.com/trungdam512/Tidy-Tuesday-Explorations/tree/main/Project%20Valentine
+---
+
+I was curious to find out how age and gender would play a role in selecting Valentine's gifts for the other halves. Some intriguing results are only separated by a click to visit my website!

@@ -75,5 +75,26 @@
     "title": "Computer Science Projects",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nWaré - Burkina Faso Tic-Tac-Toe\n\n\n\n\n\n\n\nJava\n\n\nGame Dev\n\n\nUI/UX\n\n\nObject Oriented Programming\n\n\n \n\n\n\n\nDec 5, 2022\n\n\nTrung Dam, Justin Potts, Sylvain Zong-Naba\n\n\n\n\n\n\n  \n\n\n\n\nGoogle Dinosaur Game\n\n\n\n\n\n\n\nPython\n\n\nGame Dev\n\n\nUI/UX\n\n\n \n\n\n\n\nMay 3, 2022\n\n\nAvianna Bui, Trung Dam\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/tidy_tuesday_projects/NCAA_MarchMadness_2024/index.html",
+    "href": "posts/tidy_tuesday_projects/NCAA_MarchMadness_2024/index.html",
+    "title": "March Madness 2024 Explorations",
+    "section": "",
+    "text": "Coming into this March Madness data set, I was curious about the influence of past performances/participation on public favorite picks and championship aura among 64 D1 Basketball Programs. Two research questions are:\n\nWould the amount of times the team advances to a certain round influence the public picks for the time to win a game in that round?\nAre teams with more experience in previous tournaments likely to have championship genes?\n\nTag along with me to see what the data got to tell us!"
+  },
+  {
+    "objectID": "tidy_tuesday.html",
+    "href": "tidy_tuesday.html",
+    "title": "Tidy Tuesday Explorations",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nMarch Madness 2024 Explorations\n\n\n\n\n\n\n\nR\n\n\nEDA (Exploratory Data Analysis)\n\n\n \n\n\n\n\nApr 26, 2024\n\n\nTrung Dam\n\n\n\n\n\n\n  \n\n\n\n\nValentine Gift Explorations\n\n\n\n\n\n\n\nR\n\n\nEDA (Exploratory Data Analysis)\n\n\n \n\n\n\n\nFeb 29, 2024\n\n\nTrung Dam\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/tidy_tuesday_projects/Valentine_Days/index.html",
+    "href": "posts/tidy_tuesday_projects/Valentine_Days/index.html",
+    "title": "Valentine Gift Explorations",
+    "section": "",
+    "text": "I was curious to find out how age and gender would play a role in selecting Valentine’s gifts for the other halves. Some intriguing results are only separated by a click to visit my website!"
   }
 ]
