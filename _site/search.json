@@ -54,5 +54,26 @@
     "title": "Investigating Drought Climatic Aspects in Puerto Rican Tropical Rainforest",
     "section": "",
     "text": "The dynamic of precipitation and temperature in tropical rainforests has always been an ongoing research topic. Last summer, I wanted to delve into the interconnection of daily rainfall and occasional heat shock in two study sites in Puerto Rico: Sabana Field Research Station and Bisley Experimental Watersheds. These two sites are chosen to investigate the discrepancy in the relationship between rainfall and temperature across different topography and the impact of low rainfall and heat shock periods on Sabana Field Research Station’s biodiversity."
+  },
+  {
+    "objectID": "posts/cs_projects/Ware/index.html",
+    "href": "posts/cs_projects/Ware/index.html",
+    "title": "Waré - Burkina Faso Tic-Tac-Toe",
+    "section": "",
+    "text": "Our project features a traditional Burkina Faso game, which includes two players placing and taking turns to move 3 markers. Our code requires users to install Java 17 to use kilt-graphics, a graphic library developed by the Mathematics, Statistics, and Computer Science (MSCS) department in Macalester College: https://mac-comp127.github.io/kilt-graphics/index.html.\nTo play the game, users should first log their name into name boxes. Then the game takes the players to a board screen, which requires them to place 3 markers by turn. Using a computer mouse, one player must move their markers smartly to form a row, a column, or a diagonal line to win the game. The players can further change their names and play the game over again."
+  },
+  {
+    "objectID": "posts/cs_projects/Dino_Game/index.html",
+    "href": "posts/cs_projects/Dino_Game/index.html",
+    "title": "Google Dinosaur Game",
+    "section": "",
+    "text": "We simulated the Dinosaur Game, or Chrome Dino, that is built into the Google Chrome web browser, which was originally created by the Chrome UX team in 2014. The player’s goal is to guide a Tyrannosaurus rex across a moving landscape, avoiding as many obstacles as possible to achieve a high score."
+  },
+  {
+    "objectID": "cs.html",
+    "href": "cs.html",
+    "title": "Computer Science Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nWaré - Burkina Faso Tic-Tac-Toe\n\n\n\n\n\n\n\nJava\n\n\nGame Dev\n\n\nUI/UX\n\n\nObject Oriented Programming\n\n\n \n\n\n\n\nDec 5, 2022\n\n\nTrung Dam, Justin Potts, Sylvain Zong-Naba\n\n\n\n\n\n\n  \n\n\n\n\nGoogle Dinosaur Game\n\n\n\n\n\n\n\nPython\n\n\nGame Dev\n\n\nUI/UX\n\n\n \n\n\n\n\nMay 3, 2022\n\n\nAvianna Bui, Trung Dam\n\n\n\n\n\n\nNo matching items"
   }
 ]

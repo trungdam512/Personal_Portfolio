@@ -1,12 +1,12 @@
 ---
-title: "Data Science Projects"
+title: "Computer Science Projects"
 website: 
   navbar:
       background: dark
       search: true
 listing:
   contents:
-    - "posts/data_projects"
+    - "posts/cs_projects"
   feed: true
   fields: [image, date, title, author, categories]
   date-format: medium

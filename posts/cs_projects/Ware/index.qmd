@@ -1,0 +1,29 @@
+---
+title: "Waré - Burkina Faso Tic-Tac-Toe"
+author: Trung Dam, Justin Potts, Sylvain Zong-Naba
+date: " December 5, 2022"
+image: thumbnail.png
+categories:
+  - Java
+  - Game Dev
+  - UI/UX
+  - Object Oriented Programming
+website: 
+  navbar:
+      background: dark
+      search: true
+about: 
+  template: solana
+  image: thumbnail.png
+  links: 
+    - icon: link-45deg
+      text: Website
+      href: https://trungdam512.github.io/Ware/
+    - icon: github
+      text: Github
+      href: https://github.com/trungdam512/Ware
+---
+
+Our project features a traditional Burkina Faso game, which includes two players placing and taking turns to move 3 markers. Our code requires users to install Java 17 to use kilt-graphics, a graphic library developed by the Mathematics, Statistics, and Computer Science (MSCS) department in Macalester College: <https://mac-comp127.github.io/kilt-graphics/index.html>.
+
+To play the game, users should first log their name into name boxes. Then the game takes the players to a board screen, which requires them to place 3 markers by turn. Using a computer mouse, one player must move their markers smartly to form a row, a column, or a diagonal line to win the game. The players can further change their names and play the game over again.

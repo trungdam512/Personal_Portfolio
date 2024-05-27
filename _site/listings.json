@@ -6,5 +6,12 @@
       "/posts/data_projects/Climate_Stressors_Rainforest_PuertoRico/index.html",
       "/posts/data_projects/COVID_US_Universities/index.html"
     ]
+  },
+  {
+    "listing": "/cs.html",
+    "items": [
+      "/posts/cs_projects/Ware/index.html",
+      "/posts/cs_projects/Dino_Game/index.html"
+    ]
   }
 ]
