@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/data.html",
+    "items": [
+      "/posts/data_projects/US_Building_Efficiency/index.html",
+      "/posts/data_projects/Climate_Stressors_Rainforest_PuertoRico/index.html",
+      "/posts/data_projects/COVID_US_Universities/index.html"
+    ]
+  },
+  {
+    "listing": "/cs.html",
+    "items": [
+      "/posts/cs_projects/Ware/index.html",
+      "/posts/cs_projects/Dino_Game/index.html"
+    ]
+  },
+  {
+    "listing": "/tidy_tuesday.html",
+    "items": [
+      "/posts/tidy_tuesday_projects/NCAA_MarchMadness_2024/index.html",
+      "/posts/tidy_tuesday_projects/Valentine_Days/index.html"
+    ]
+  }
+]
