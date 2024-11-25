@@ -1,0 +1,22 @@
+---
+title: "Clarity for Change: Harnessing Data Transparency for Sustainability"
+author: Trung Dam
+date: "April 12, 2023"
+image: thumbnail.png
+categories:
+  - Environmental Classics
+  - Writing Argumentative
+website: 
+  navbar:
+      background: dark
+      search: true
+about: 
+  template: solana
+  image: thumbnail.png
+  links: 
+    - icon: link-45deg
+      text: Document
+      href: https://drive.google.com/file/d/1kU9dW9fVQEVC8wV-rSdROjG-88CoOs7Q/view?usp=sharing
+---
+
+Drawing from Rachel Carson's righteous act of calling out big corporations that promoted chemical toxins DDT, this paper highlights the importance of data transparency on influencing relevant stakeholders' sustainable behavior. This further provides scientific-based suggestions on how big companies can take the next steps to harness the power of data transparency and communication.

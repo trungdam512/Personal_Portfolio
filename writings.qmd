@@ -1,0 +1,19 @@
+---
+title: "My Writing Projects"
+website: 
+  navbar:
+      background: dark
+      search: true
+listing:
+  contents:
+    - "posts/writings"
+  feed: true
+  fields: [image, date, title, author, categories]
+  date-format: medium
+  type: default
+  categories: true
+  table-hover: true
+  sort-ui: true
+  filter-ui: true
+  sort: "date desc"
+---

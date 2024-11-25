@@ -20,5 +20,11 @@
       "/posts/cs_projects/Ware/index.html",
       "/posts/cs_projects/Dino_Game/index.html"
     ]
+  },
+  {
+    "listing": "/writings.html",
+    "items": [
+      "/posts/writings/Labor Migration/index.html"
+    ]
   }
 ]

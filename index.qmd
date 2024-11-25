@@ -18,26 +18,23 @@ about:
     - icon: envelope
       text: Email
       href: mailto:tdam@macalester.edu
-    - icon: file-person-fill
-      text: Resume
-      href: https://drive.google.com/file/d/1pIeeaadz-zQjwiJRwACuRN8bIC5WqTU-/view?usp=sharing 
       
 comments: false
 ---
 
-Hi there! I'm **Trung Dam**, a rising senior pursuing a double major in **Data Science and Environmental Studies** with a concentration in **Statistics** at Macalester College (Class of '25). As an aspiring analyst and researcher, I am dedicated to leveraging data-driven approaches to address environmental challenges and promote sustainable practices within businesses.
+Hi there! I'm **Trung Dam**, a senior double majoring in **Data Science and Environmental Studies** at Macalester College. I am dedicated to leveraging data-driven approaches and holistic problem-solving mental models to address environmental challenges and promote sustainable practices within businesses.
 
-Additionally, my passion for alternative energy drives my commitment to contributing to a systematic shift towards clean energy solutions. This prompt me to continuously absorb and distill modern technology and knowledge regarding renewable energy initiatives.
+My passion for alternative energy fuels my commitment to contributing to a systematic shift towards clean energy solutions. This prompt me to continuously absorb and distill modern technology and knowledge regarding renewable energy initiatives.
 
-Explore my portfolio where I documented my critical thinking process of various interesting problems, ranging from epidemiology to NCAA March Madness!
+Explore my portfolio where I documented my critical thinking process of various interesting problems, ranging from COVID-19 epidemiology to NCAA March Madness!
 
 ## Education
 
-Macalester College \| St. Paul, MN <br> B.A in Data Science and Environmental Studies \| Expected Graduation: Spring 2025
+Macalester College \| St. Paul, MN <br> B.A in Data Science and Environmental Studies \| Expected Graduation: Summer 2025
 
 ## Experience (Recent)
 
-Data Science Intern \| Aquila \| Ho Chi Minh City, VN <br> Transportation & Clean Fuels Intern \| Great Plains Institute \| Minneapolis, MN <br> Ecology Researcher \| Macalester College \| Luquillo, PR
+Program Development Intern \| Grid Catalyst \| Minneapolis, MN <br> Data Science Intern \| Aquila \| Ho Chi Minh City, VN <br> Transportation & Clean Fuels Intern \| Great Plains Institute \| Minneapolis, MN <br> Ecology Researcher \| Macalester College \| Luquillo, PR
 
 ## Entrepreneurship
 

@@ -1,0 +1,23 @@
+---
+title: "Vietnam and the case of labor migration"
+author: Trung Dam
+date: "May 12, 2023"
+image: thumbnail.png
+categories:
+  - Geospatial analysis
+  - Policy 
+  - Migration 
+website: 
+  navbar:
+      background: dark
+      search: true
+about: 
+  template: solana
+  image: thumbnail.png
+  links: 
+    - icon: link-45deg
+      text: Document
+      href: https://drive.google.com/file/d/1h-zQZgz0NLr4GmAIxt_cCZNDU5vtkO0y/view?usp=sharing
+---
+
+This paper explores the potential policy pathways that Vietnam can consider to promote skill retention, job creation, and higher education improvement to fight against the attractive "labor pulling" factors from foreign countries.

@@ -1,0 +1,22 @@
+---
+title: "Urban Horizons: How New York's History Shaped Its Environment"
+author: Trung Dam
+date: "December 13, 2022"
+image: thumbnail.png
+categories:
+  - Environmental History
+  - Environmental Justice 
+website: 
+  navbar:
+      background: dark
+      search: true
+about: 
+  template: solana
+  image: thumbnail.png
+  links: 
+    - icon: link-45deg
+      text: Document
+      href: https://drive.google.com/file/d/1zRZ8ImB9ECsx-OF4QfRlWaZ6kKoBJwFU/view?usp=sharing
+---
+
+This piece of writing takes the audience back in time to visit the indigenous land of Lenape people. The post-colonial urbanization of the land and its relationship with current New York City's environment is then explored in chronological order.

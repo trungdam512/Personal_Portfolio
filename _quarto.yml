@@ -18,11 +18,9 @@ website:
       - icon: graph-up-arrow
         text: Tidy Tuesdays
         href: tidy_tuesday.qmd
-      # - icon: search-heart
-      #   text: Research
-      #   menu:
-      #     - text: Blocks4All
-      #       href: blocks4all.qmd
+      - icon: pen
+        text: Writings
+        href: writings.qmd
     right: 
       - icon: github
         href: https://github.com/trungdam512
