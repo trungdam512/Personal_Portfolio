@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/tidy_tuesday.html",
+    "items": [
+      "/posts/tidy_tuesday_projects/NCAA_MarchMadness_2024/index.html",
+      "/posts/tidy_tuesday_projects/Valentine_Days/index.html"
+    ]
+  },
+  {
     "listing": "/data.html",
     "items": [
       "/posts/data_projects/US_Building_Efficiency/index.html",
@@ -15,10 +22,11 @@
     ]
   },
   {
-    "listing": "/tidy_tuesday.html",
+    "listing": "/writings.html",
     "items": [
-      "/posts/tidy_tuesday_projects/NCAA_MarchMadness_2024/index.html",
-      "/posts/tidy_tuesday_projects/Valentine_Days/index.html"
+      "/posts/writings/Labor Migration/index.html",
+      "/posts/writings/Environmental Classics/index.html",
+      "/posts/writings/New York City Environmental History/index.html"
     ]
   }
 ]
